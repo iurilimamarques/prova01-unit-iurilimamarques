@@ -18,6 +18,7 @@ In order to execute this project you must follow the steps below:
 1. Run `npm run coverage` to execute the entire test suite with coverage
 
 
+
 All execution artifacts can be found in `./coverage`, if you want to remove these files run `npm run clean`.
 
 ## Project Structure
